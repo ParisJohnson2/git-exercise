@@ -1,4 +1,3 @@
 # git-exercise
 this is just the start
-or 
-is it 
+i stand corrected
